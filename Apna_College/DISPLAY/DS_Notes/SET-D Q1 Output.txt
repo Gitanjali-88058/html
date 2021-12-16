@@ -1,0 +1,78 @@
+Displaying Your Array....
+[ 55 ,3 ,4 ,6 ,76 ,89 ,34 ,1 ,7 ,8 ,9 ,34 ]
+
+ITERATION : 1
+Comparisons : 9
+
+Displaying Your Array....
+[ 3 ,4 ,6 ,55 ,76 ,34 ,1 ,7 ,8 ,9 ,34 ,89 ]
+
+ITERATION : 2
+Comparisons : 6
+
+Displaying Your Array....
+[ 3 ,4 ,6 ,55 ,34 ,1 ,7 ,8 ,9 ,34 ,76 ,89 ]
+
+ITERATION : 3
+Comparisons : 6
+
+Displaying Your Array....
+[ 3 ,4 ,6 ,34 ,1 ,7 ,8 ,9 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 4
+Comparisons : 4
+
+Displaying Your Array....
+[ 3 ,4 ,6 ,1 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 5
+Comparisons : 1
+
+Displaying Your Array....
+[ 3 ,4 ,1 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 6
+Comparisons : 1
+
+Displaying Your Array....
+[ 3 ,1 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 7
+Comparisons : 1
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 8
+Comparisons : 0
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 9
+Comparisons : 0
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 10
+Comparisons : 0
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 11
+Comparisons : 0
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+ITERATION : 12
+Comparisons : 0
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
+
+
+Displaying Your Array....
+[ 1 ,3 ,4 ,6 ,7 ,8 ,9 ,34 ,34 ,55 ,76 ,89 ]
